@@ -5,7 +5,7 @@ Instead of running tetris game at april fools, I let UMP run snake game instead!
 
 Note that I will not provide any complete jar files here. Do not ask my for it, I won't! 
 
-This repository will only contain code that are written 100% by myself and you need to replace the classes in the jar file needed for the game ON YOUR OWN! 
+This repository will only contain code that are written 100% by myself and you need to replace the class files in the jar file needed for the game ON YOUR OWN! 
 
 In addition, please make sure you've carefully check every single line of code in the class file that you are about to replace. 
 
