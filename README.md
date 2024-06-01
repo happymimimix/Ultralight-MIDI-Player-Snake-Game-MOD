@@ -3,6 +3,14 @@ This is my snake game mod of Ultralight MIDI Player.
 
 Instead of running tetris game at april fools, I let UMP run snake game instead! 
 
+Note that I will not provide any complete jar files here. Do not ask my for it, I won't! 
+
+This repository will only contain code that are written 100% by myself and you need to replace the classes in the jar file needed for the game ON YOUR OWN! 
+
+In addition, please make sure you've carefully check every single line of code in the class file that you are about to replace. 
+
+This is project certainly not a malware but how could you be sure I'm not lieing to you until you've checked everything yourself? Do not trust anyone on the internet, including me!!! 
+
 ## Usage: 
 Download the latest UMP jar from [offcial website](https://pipiraworld.web.fc2.com/ump/en.html). 
 
