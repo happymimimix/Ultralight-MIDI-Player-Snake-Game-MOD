@@ -17,3 +17,7 @@ Replace the following files in the archive with my custom files provided in rele
 ![image](https://github.com/happymimimix/Ultralight-MIDI-Player-Snake-Game-MOD/assets/107282563/a735b6c3-b1a6-423f-b7f1-a76be5124066)
 
 Enjoy!
+
+![image](https://github.com/happymimimix/Ultralight-MIDI-Player-Snake-Game-MOD/assets/107282563/a66bc315-1d0f-49f3-82e8-ff09522ff2e3)
+
+Tip: Change this line in MIDIPlayer.jar\pipira\MIDIPlayer\app\AprilChecker.class to make the April Features always active no matter what. 
